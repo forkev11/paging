@@ -37,7 +37,15 @@ For Powershell
 pip install -r requirements.txt
 ```
 
-### Run app
+## Run app
 ```
 python app.py
 ```
+
+## Screenshots
+
+> ![image](https://github.com/user-attachments/assets/91bf5a30-059d-4a82-8dad-c343066fc7bf)
+
+> ![image](https://github.com/user-attachments/assets/652480a3-5c45-4bd3-b1d9-e8714604e1f9)
+
+
