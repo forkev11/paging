@@ -9,7 +9,7 @@ For sh and bash
 
 For Powershell
 ```ps1
-./venv/bin/Activate.ps1
+.\venv\Scripts\Activate.ps1
 ```
 
 ## Install dependencies
